@@ -1,0 +1,25 @@
+1. Solar eclipses, Droughts, Earthquakes, Greenhouse Effect, Volcanoes
+
+2. Droughts: The US drought monitor provided by drought.gov gives a detailed map showing if and where droughts are
+             happening in the US as well as its level of severity. 38.5% of California is in some form of drought
+             with most severe droughts happening in Southern California.
+   Solar eclipses: So apparantly lunar and solar eclipses are two different things woah. "timeanddate.com" gives
+                   maps and dates of upcoming lunar and solar eclipses to happen across the globe, providing a 
+                   map that indicates what region of the planet will experience a change in light.
+   Greenhouse effect: National Geographic describes the Greenhouse Effect as excess human contribution of
+                      greenhouse gasses like carbon dioxide to the atmosphere, causing more heat energy from
+                      sunlight to be trapped within our atmosphere and increasing the severity of global warming.
+                      Sea ice as a result is melting rapidly, causing ocean levels to rise drastically.
+
+3. Greenhouse Effect:
+	By taking data of ocean levels within the past years, we can model that data and find patterns in sea
+        level change. Using python, we can write a function/functions to predict the sea levels in the future,
+        giving data on which countries are at risk of being sea-bound within a certain time frame.
+
+4. Dream Project: Do the above ^ with every ocean on Earth, seeing how global warming+glacier melting affects
+                  each area of the world differently. Get a detailed model of how sea level endangers the entire
+                  planet.
+   Simpler Project: Accumulate sea level data for just one or two oceans (maybe the Pacific and Atlantic since
+                    they are the biggest and encompass the East and West coasts of the USA) and use Python to 
+                    predict sea levels to see how increase greenhouse affects the USA's shorelines.
+
